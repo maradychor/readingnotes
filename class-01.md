@@ -36,7 +36,6 @@ What are the benefits of using semantic tags in our HTML?
 
 
 
-
 Describe 2 things that require JavaScript in the Browser?
 
 How can you add JavaScript to an HTML document?
