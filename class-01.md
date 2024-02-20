@@ -1,44 +1,35 @@
 ## Things I want to know more about
 
 
-Compose a short poem describing how HTTP sends data between computers.
+How would you describe an object to a non-technical friend you grew up with?
+variables to represent somethinhg. for example: marady = {
+                                                born: 96
+                                                race: asian 
 
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
+marady is the object and a little about herself is being represented 
 
-How can you find images to add to a Website?
+What are some advantages to creating object literals?
+Object literals are detailed like what i did above. They are always put in { brackets 
 
-How do you create a String vs a Number in JavaScript?
+How do objects differ from arrays?
+An array can store multiple funtions under their name, meaning, instead of writing code 10 times in order to get a 1-10 list add an array in one line or code ex: foods = ["sushi", "burger", "pizza"];
 
-What is a Variable and why are they important in JavaScript?
+Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
+When there is a number or special character you have to use brackets 
 
+Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+This refers to dog the advantage of using this is being able to reuse this with different objects/properties 
 
-What is an HTML attribute?
+Intro to DOM 
+What is the DOM?
+The Document Object Model 
+A programming interface for web documents. 
 
-Describe the Anatomy of an HTMl element.
-
-What is the Difference between <article> and <section> element tags?
-
-What Elements does a “typical” website include?
-
-How does metadata influence Search Engine Optimization?
-
-How is the <meta> HTML tag used when specifying metadata?
-
-What is the first step to designing a Website?
-
-What is the most important question to answer when designing a Website?
-
-
-Why should you use an <h1> element over a <span> element to display a top level heading?
-
-What are the benefits of using semantic tags in our HTML?
+Briefly describe the relationship between the DOM and JavaScript.
+Javascript creates responses for the DOM to serve its purpose for programers 
 
 
 
-
-Describe 2 things that require JavaScript in the Browser?
-
-How can you add JavaScript to an HTML document?
 
 
 
