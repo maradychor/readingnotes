@@ -1,3 +1,5 @@
+These topics matter as they are touching base on exactly what we will be doing in software development. The basics will always get our code going and the topics these readings highlighted pros, cons and where to start code. In this module we're studying how we can apply two different languages in 1 code and the different ways we can have fun with our projects. 
+
 Why is it important to use semantic elements in our HTML?
 To seperate different, clear messages, styles and placement spaces 
 for example: we want our closing statement to always be at the bottom, this can be seperated in our footer element 
