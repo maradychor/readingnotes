@@ -5,8 +5,6 @@ for example: we want our closing statement to always be at the bottom, this can 
 How many levels of headings are there in HTML?
 6 
 
-What are some uses for the <sup> and <sub> elements?
-
 When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 Title 
 
