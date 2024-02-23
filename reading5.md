@@ -2,7 +2,7 @@ What is a real world use case for the alt attribute being used in a website?
 The user is visually impaired, and is using a screen reader to read the web out to them. 
 
 How can you improve accessibility of images in an HTML document?
-adding the alt attribute 
+colors, sizes, fonts, styles
 
 Provide an example of when the figure element would be useful in an HTML document.
 when we are trying to describe content, providing information supporting the main text
