@@ -16,9 +16,22 @@ PNG - This is particularly important if there's any text in your screenshot, as 
 Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
 Foreground color is like the color of the writing, background color is like the color of the surface
 
-Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
+Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character? we can add color in some of his main points with code 
+p {
+  color: red;
+}
 
 What should you consider when choosing fonts for an HTML document?
+Font choices are limited, they generally are not free
+
 What do font-size, font-weight, and font-style do to HTML text elements?
+size-size of text (ex: 12,36,62)weight-sets how bold the text is. style-Used to turn italic text on or off
 Describe two ways you could add spacing around the characters displayed in an h1 element.
-If you have any questions or comments from the readings, post them in the class Slack channel!
+h1 {
+  letter-spacing: 2px;
+}
+
+p::first-line {
+  letter-spacing: 4px;
+  word-spacing: 4px;
+}
